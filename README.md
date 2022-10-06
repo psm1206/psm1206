@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning recommender system.
+- 🌱 I’m currently learning recommender systems.
 
 <!--
 **psm1206/psm1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
