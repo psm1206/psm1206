@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning recommender systems.
+- It does not matter how slowly you go as long as you do not stop.
 - [[CV](https://drive.google.com/file/d/11kbKMCKhrXcM2FQbfn7-_uPet-62jPyO/view?usp=sharing)]
 
 <!--
