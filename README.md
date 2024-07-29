@@ -1,7 +1,7 @@
 ### Hi there 👋
 - I’m currently learning recommender systems.
 - Nobody ever figures out what life is all about, and it doesn't matter. - Richard Feynman
-- [[CV](https://drive.google.com/file/d/11kbKMCKhrXcM2FQbfn7-_uPet-62jPyO/view?usp=sharing)]
+- [[CV](https://drive.google.com/file/d/11kbKMCKhrXcM2FQbfn7-_uPet-62jPyO/view?usp=sharing)] [[CV of Failures](https://drive.google.com/file/d/1gwSLmcfDeD1sDdbOB_GV-Bb6Rprm46yC/view?usp=sharing)]
 
 <!--
 **psm1206/psm1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
